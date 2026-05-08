@@ -24,7 +24,7 @@ h1 {
 .timer-display {
     font-size: 5em;
     margin-bottom: 20px;
-    color: #007bff;
+    color: #dc3545;
 }
 
 .timer-controls button {
@@ -34,7 +34,7 @@ h1 {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    background-color: #007bff;
+    background-color: #dc3545;
     color: white;
     transition: background-color 0.3s ease;
 }
