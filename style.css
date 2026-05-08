@@ -22,9 +22,9 @@ h1 {
 }
 
 .timer-display {
-    font-size: 3em;
+    font-size: 5em;
     margin-bottom: 20px;
-    color: #007bff;
+    color: #000000;
 }
 
 .timer-controls button {
